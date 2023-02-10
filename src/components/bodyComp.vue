@@ -1,0 +1,5 @@
+<template>
+    BODY
+</template>
+
+

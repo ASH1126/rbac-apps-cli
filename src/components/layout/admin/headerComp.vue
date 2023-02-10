@@ -1,1 +1,3 @@
-HEADER
+<template>
+    HEADER
+</template>

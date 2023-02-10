@@ -1,21 +1,16 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Dashboard from '../components/Dashboard.vue'
+import Body from '../components/bodyComp.vue'
 
 const routes = [
-    // {
-    //     path: '/',
-    //     name: 'Home',
-    //     component: bodyComp,
-    // },
     // {
     //     path: '/login',
     //     name: 'Login',
     //     component: Login,
     // },
     {
-        path: '/admin',
-        name: 'Dashboard',
-        component: Dashboard,
+        path: '/',
+        name: 'Body',
+        component: Body,
     },
 
 ]
