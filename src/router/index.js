@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Body from '../components/bodyComp.vue'
+import Admin from '../components/adminComp.vue'
 
 const routes = [
     // {
@@ -9,8 +9,8 @@ const routes = [
     // },
     {
         path: '/',
-        name: 'Body',
-        component: Body,
+        name: 'Admin',
+        component: Admin,
     },
 
 ]
